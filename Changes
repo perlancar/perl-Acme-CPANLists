@@ -1,5 +1,12 @@
 Revision history for Acme-CPANLists
 
+0.90.1  2015-10-23 (PERLANCAR)
+
+        - No functional changes.
+
+        - Update version number so it's higher than 0.02 (d'oh).
+
+
 0.9.1   2015-10-23 (PERLANCAR)
 
 	- Introduce 'id' property to list.
