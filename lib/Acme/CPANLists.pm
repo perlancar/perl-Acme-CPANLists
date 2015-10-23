@@ -61,6 +61,7 @@ structure is this:
 
  # an example author list
  {
+     #id => 'GUID', # optional, can be set to ease list identification/referral
      summary => 'My favorite modules',
      description => <<_,
 (Some longer description, in Markdown format)
@@ -75,6 +76,7 @@ _
 
  # an example module list
  {
+     #id => 'GUID', # optional, can be set to ease list identification/referral
      summary => 'My favorite authors',
      description => <<'_',
  (Some longer description, in Markdown format)
