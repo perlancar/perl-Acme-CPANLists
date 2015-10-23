@@ -12,6 +12,11 @@ Acme::CPANLists is yet another way to organize CPAN modules/authors into various
 "lists".
 
 
+=head1 SPECIFICATION VERSION
+
+0.9
+
+
 =head1 DESCRIPTION
 
 With the multitude of modules that are available on CPAN, it is sometimes
