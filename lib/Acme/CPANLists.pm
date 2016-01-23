@@ -64,10 +64,10 @@ structure is this:
      #id => 'GUID', # optional, can be set to ease list identification/referral
      summary => 'My favorite modules',
      description => <<_,
-(Some longer description, in Markdown format)
+ (Some longer description, in Markdown format)
 
-This is just a list of my favorite modules.
-_
+ This is just a list of my favorite modules.
+ _
      entries => [
          {...},
          ...
