@@ -138,7 +138,7 @@ modules and view the entries of a list.
 
 Putting similar/related modules together in an Acme::CPANLists can also help the
 L<lcpan> script find related modules (C<lcpan related-mods>). See the lcpan
-documentation or L<lcpan related-mods --help> for more details.
+documentation or C<lcpan related-mods --help> for more details.
 
 
 =head1 SEE ALSO
