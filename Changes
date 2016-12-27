@@ -1,5 +1,13 @@
 Revision history for Acme-CPANLists
 
+0.90.6  2016-12-28 (PERLANCAR)
+
+	- No spec changes.
+
+	- Add recommendation to separate each list into its own module, to
+	  avoid confusing 'lcpan related-mods'.
+
+
 0.90.5  2016-12-28 (PERLANCAR)
 
 	- No spec changes.
