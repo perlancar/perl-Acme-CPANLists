@@ -1,5 +1,12 @@
 Revision history for Acme-CPANLists
 
+0.90.4  2016-12-27 (PERLANCAR)
+
+	- No spec changes.
+
+	- [dist] Use _SPEC:: prefix to express follows-spec relationship.
+
+
 0.90.3  2016-11-07 (PERLANCAR)
 
 	- No spec changes.
