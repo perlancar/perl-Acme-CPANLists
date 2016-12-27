@@ -46,7 +46,10 @@ get to it :-), or perhaps when I get some help).
 The first step is to decide on a name of the module. It must be under the
 C<Acme::CPANLists::> namespace. Since, unlike in Acme::CPANAuthors, a module can
 contain multiple lists, you can just use your CPAN ID for the module, even if
-you want to create many lists, for example: L<Acme::CPANLists::PERLANCAR>.
+you want to create many lists, for example: L<Acme::CPANLists::PERLANCAR>. But I
+recommend that you put each list into a separate module under your CPAN ID
+subpackage, for example: L<Acme::CPANLists::PERLANCAR::Unbless> or
+L<Acme::CPANLists::PERLANCAR::Task::PickingRandomLinesFromFile>.
 
 Inside the module, the two main package variables you have to declare are:
 
